@@ -1,1 +1,1 @@
-# Tarea-procesos-Estoc-sticos
+# Tarea-procesos-Estocásticos
