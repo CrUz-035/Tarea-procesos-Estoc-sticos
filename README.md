@@ -1,2 +1,2 @@
-Problemas-Procesos estocásticos.
-Simulaciones estocásticas 
+#Problemas-Procesos estocásticos.
+#Simulaciones estocásticas 
