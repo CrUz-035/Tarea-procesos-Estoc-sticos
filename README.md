@@ -1,2 +1,7 @@
 #Problemas-Procesos estocásticos.
-#Simulaciones estocásticas 
+
+
+#Simulaciones estocásticas.
+
+
+#Simulación del movimiento browniano en un campo magnético.
