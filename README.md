@@ -1,1 +1,2 @@
-# Tarea-procesos-Estocásticos
+Problemas-Procesos estocásticos.
+Simulaciones estocásticas 
